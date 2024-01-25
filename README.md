@@ -2,6 +2,9 @@
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MUIC-Modern-Software-Engineering_automated-clean-code&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MUIC-Modern-Software-Engineering_automated-clean-code)
 
+I am changing the Read Me right now
+-Louis
+
 ## Setup Instruction
 ```
 poetry install
